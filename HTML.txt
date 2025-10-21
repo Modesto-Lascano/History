@@ -1,5 +1,144 @@
-<html>
-    <body>
-        <h1>Welcome to my webpage</h1>
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>History of the United States</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f9fafb; color: #222; }
+    header { background: #fff; padding: 1em; box-shadow: 0 2px 5px rgba(0,0,0,0.1); position: sticky; top: 0; z-index: 10; }
+    nav a { margin: 0 8px; text-decoration: none; color: #333; }
+    nav a:hover { text-decoration: underline; }
+    main { max-width: 900px; margin: auto; padding: 1.5em; background: #fff; }
+    section { margin-bottom: 2.5em; }
+    img { width: 100%; border-radius: 10px; margin: 10px 0; }
+    footer { text-align: center; padding: 1em; font-size: 0.9em; color: #555; }
+    .references { font-size: 0.9em; color: #555; margin-top: 1em; }
+    .references a { color: #0066cc; text-decoration: none; }
+    .references a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>History of the United States</h1>
+    <nav>
+      <a href="#before1776">Before 1776</a>
+      <a href="#revolution">Revolutionary Era</a>
+      <a href="#expansion">Expansion & Reform</a>
+      <a href="#civilwar">Civil War & Reconstruction</a>
+      <a href="#industrial">Industrialization & Gilded Age</a>
+      <a href="#worldwars">World Wars & Great Depression</a>
+      <a href="#coldwar">Cold War Era</a>
+      <a href="#modern">Modern America</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="before1776">
+      <h2>Before 1776</h2>
+      <img src="para despues" alt="Before 1776">
+      <p>Before the birth of the United States, the land was home to hundreds of Native American nations, each with their own distinct languages, traditions, and societies. These Indigenous civilizations — from the Iroquois Confederacy in the northeast to the Mississippian mound builders in the central regions, and the complex Pueblo cultures in the southwest — demonstrated sophisticated systems of governance, trade, and spirituality. European explorers arrived in the 15th and 16th centuries, establishing colonies that profoundly changed the continent.</p>
+      <p>Colonization brought not only trade and new technologies but also conflict, disease, and displacement. The Spanish established missions across the southwest and Florida; the French focused on trade and alliances with Native nations in Canada and the Mississippi Valley; and the English founded permanent settlements along the Atlantic coast. By the 1700s, thirteen British colonies had taken root, each with distinct political and cultural identities, yet all tied together by economic ambitions and a growing sense of autonomy.</p>
+      <p>As time went on, differences between the colonies and Britain deepened. The seeds of independence were already being planted, nourished by ideas of liberty, enlightenment, and self-rule that would one day shape a new nation.</p>
+      <div class="references">
+        References: <a href="https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States" target="_blank">Colonial history of the United States – Wikipedia.</a> <br>
+        <a href="https://www.usinfo.org/enus/life/artsent/oal/oaltoc.html" target="_blank">Early American and Colonial Period to 1776.</a> 
+      </div>
+    </section>
+
+    <section id="revolution">
+      <h2>Revolutionary Era (1776–1789)</h2>
+      <img src="para despues" alt="Revolutionary Era">
+      <p>The Revolutionary Era marked the transformation from colonies to a nation. Discontent brewed over British taxation without representation, trade restrictions, and military presence in the colonies. Pamphlets such as Thomas Paine's <em>Common Sense</em> ignited revolutionary thought, encouraging colonists to fight for independence.</p>
+      <p>In 1776, the Continental Congress adopted the Declaration of Independence, written primarily by Thomas Jefferson, asserting that "all men are created equal." The Revolutionary War that followed was long and brutal, with major battles in Lexington, Saratoga, and Yorktown. With the help of France and other allies, the United States secured victory in 1783, and the Treaty of Paris officially recognized American independence.</p>
+      <p>Yet freedom came with challenges. The Articles of Confederation failed to unite the states effectively, leading to economic turmoil and political tension. In 1787, delegates gathered in Philadelphia to craft a new Constitution — a living framework for democracy that established checks and balances and remains the cornerstone of American government today.</p>
+      <div class="references">
+        References: <a href="https://www.britannica.com/event/American-Revolution" target="_blank">American Revolution — Britannica.</a> <br>
+        <a href="https://www.history.com/topics/american-revolution" target="_blank">American Revolution History & Time of the Revolutionary War.</a> 
+      </div>
+    </section>
+
+    <section id="expansion">
+      <h2>Expansion & Reform (1740–1860)</h2>
+      <img src="para despues" alt="Expansion and Reform">
+      <p>During the 19th century, the United States experienced immense growth. The Louisiana Purchase of 1803 doubled the nation's size, while the Lewis and Clark expedition mapped its vast new territories. The belief in "Manifest Destiny" — that Americans were destined to expand westward — fueled settlement, exploration, and conflict with Indigenous peoples and neighboring nations.</p>
+      <p>The early 1800s also witnessed waves of reform movements inspired by the Second Great Awakening. Abolitionists like Frederick Douglass and Harriet Tubman fought against slavery, while women such as Elizabeth Cady Stanton and Lucretia Mott organized for suffrage and equality. Educational reformers like Horace Mann pushed for public schooling, and social advocates sought temperance and better working conditions.</p>
+      <p>At the same time, the growing economy — powered by canals, railroads, and factories — deepened divisions between the industrial North and the agrarian, slaveholding South. These tensions over human freedom, economics, and moral values would eventually ignite into civil war.</p>
+      <div class="references">
+        References: <a href="https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/national-expansion-and-reform-1815-1880/overview/" target="_blank">National Expansion and Reform 1815-1880.</a> <br>
+        <a href="https://www.let.rug.nl/usa/outlines/history-1954/the-era-of-expansion-and-reform.php" target="_blank">The Era of Expansion and Reform.</a> 
+      </div>
+    </section>
+
+    <!-- You can similarly add references for the remaining sections -->
+
+    <!-- Civil War & Reconstruction -->
+    <section id="civilwar">
+      <h2>Civil War & Reconstruction (1861–1877)</h2>
+      <img src="para despues" alt="Civil War">
+      <p>The Civil War was the defining conflict of the 19th century, testing whether the Union could endure divided over slavery and states' rights. Eleven southern states seceded to form the Confederate States of America. Under President Abraham Lincoln, the Union fought not only to preserve the nation but to bring about a "new birth of freedom."</p>
+      <p>After four years of devastating battles, the Union emerged victorious in 1865. The war cost over 600,000 lives and left deep scars on the national psyche. The Emancipation Proclamation and the 13th Amendment abolished slavery, while the 14th and 15th Amendments sought to guarantee civil rights and voting protections for African Americans.</p>
+      <p>Reconstruction brought both hope and hardship. Freedmen established schools and entered politics, but backlash from white supremacist groups and the rise of Jim Crow laws reversed many gains. Though Reconstruction ended in compromise and disappointment, it laid the groundwork for the civil rights struggles that would continue into the 20th century.</p>
+      <div class="references">
+        References: <a href="https://en.wikipedia.org/wiki/History_of_the_United_States_%281861%E2%80%931877%29" target="_blank">History of the United States (1861-1877) – Wikipedia.</a> <!-- Not cited above so no ID -->
+      </div>
+    </section>
+
+    <!-- Industrialization & Gilded Age -->
+    <section id="industrial">
+      <h2>Industrialization & Gilded Age (1877–1914)</h2>
+      <img src="hdnfjvnbehbfrehijbwgrebhj" alt="Industrialization">
+      <p>The postwar United States experienced unprecedented economic transformation. Factories, railroads, and telegraphs linked the nation as industrialists like Andrew Carnegie, John D. Rockefeller, and J.P. Morgan built enormous fortunes. Urban centers swelled with immigrants from Europe, Asia, and Latin America seeking opportunity.</p>
+      <p>This era of wealth and progress — the Gilded Age — hid the deep inequalities beneath. Poor labor conditions, child labor, and overcrowded housing led to widespread social challenges. Labor unions and reformers such as the Knights of Labor and Jane Addams emerged to demand justice and fair treatment.</p>
+      <p>The Progressive Movement took root in response, advocating for anti-trust laws, women's suffrage, and political reforms. Industrialization created modern America's economic might but also introduced the debates about fairness, power, and democracy that continue today.</p>
+      <div class="references">
+        References: <a href="https://www.britannica.com/place/United-States/The-United-States-from-1816-to-1850" target="_blank">The United States from 1816 to 1850 – Britannica.</a> 
+      </div>
+    </section>
+
+    <!-- World Wars & Great Depression -->
+    <section id="worldwars">
+      <h2>World Wars & Great Depression (1914–1945)</h2>
+      <img src="dfjhbjhkjtuteknje" alt="World Wars">
+      <p>World War I thrust the United States onto the global stage. Though initially neutral, the nation joined the Allies in 1917, helping bring an end to the conflict. The 1920s that followed were marked by prosperity, innovation, and cultural dynamism — jazz, flappers, and the Harlem Renaissance defined the decade. Yet beneath the surface, economic instability loomed.</p>
+      <p>The 1929 stock market crash triggered the Great Depression, leaving millions unemployed. President Franklin D. Roosevelt's New Deal sought to revive the economy through public works, social security, and banking reforms. His leadership reshaped the role of government in American life.</p>
+      <p>World War II redefined the 20th century. The U.S. became the "arsenal of democracy," supplying the Allies with weapons and manpower. The war's end in 1945 not only secured victory but also ushered in a new global order, with the United States emerging as a superpower and a defender of democratic ideals.</p>
+      <div class="references">
+        References: <a href="https://www.britannica.com/event/Great-Depression?utm_source">Great Depression — Encyclopaedia Britannica.</a>
+      </div>
+    </section>
+
+    <!-- Cold War Era -->
+    <section id="coldwar">
+      <h2>Cold War Era (1945–1991)</h2>
+      <img src="tkjngnrtjtrjt" alt="Cold War">
+      <p>The Cold War shaped nearly every aspect of postwar life. The ideological struggle between the capitalist United States and the communist Soviet Union led to decades of tension, proxy wars, and nuclear fear. Events like the Korean War, the Cuban Missile Crisis, and the Vietnam War defined U.S. foreign policy and public opinion.</p>
+      <p>At home, the Civil Rights Movement — led by figures like Martin Luther King Jr., Rosa Parks, and Malcolm X — confronted racial injustice, achieving landmark legislation such as the Civil Rights Act of 1964 and Voting Rights Act of 1965. The feminist movement, environmentalism, and protests against war expanded democratic participation and social awareness.</p>
+      <p>Technological rivalry led to the space race, culminating in the 1969 moon landing. By the late 1980s, the Soviet Union weakened under economic strain, and in 1991, its collapse marked the end of the Cold War, leaving the United States as the dominant global power.</p>
+      <div class="references">
+        References: <a href="https://history.state.gov/milestones/1945-1952/foreword?utm_source">The Early Cold War" — U.S. Department of State Office of the Historian.</a>
+        <a href="https://www.britannica.com/event/Cold-War?utm_source">"Cold War" — Encyclopaedia Britannica.</a>
+      </div>
+    </section>
+
+    <!-- Modern America -->
+    <section id="modern">
+      <h2>Modern America (1991–Present)</h2>
+      <img src="fjkfhhkjkh" alt="Modern America">
+      <p>The modern era has been defined by rapid globalization, technological innovation, and shifting cultural dynamics. The internet revolution of the 1990s transformed communication, commerce, and knowledge. Events such as the September 11 attacks in 2001 redefined national security and foreign policy, leading to wars in Afghanistan and Iraq.</p>
+      <p>Social movements for equality — including LGBTQ+ rights, Black Lives Matter, and climate activism — have reshaped public discourse. Advances in technology, medicine, and science have improved lives, but political polarization and economic inequality remain pressing issues. The United States continues to grapple with its ideals and realities in a changing world.</p>
+      <p>Today's America stands at the crossroads of innovation and introspection. Its diverse population, democratic institutions, and cultural influence make it a central force in global affairs — still striving toward the promise of liberty and justice for all.</p>
+      <div class="references">
+        References: <a href="https://en.wikipedia.org/wiki/History_of_the_United_States_%281991%E2%80%932016%29?utm_source">History of the United States (1991–2016).</a>
+        <a href="https://fiveable.me/united-states-history-since-1865/unit-12?utm_source">Globalization & Challenges: 1991-Present.</a>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
 </html>
