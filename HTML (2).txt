@@ -1,0 +1,438 @@
+before1776.html:
+---------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Before 1776 | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html" class="active">Before 1776</a>
+  <a href="revolution.html">Revolutionary Era</a>
+  <a href="expansion.html">Expansion & Reform</a>
+  <a href="civilwar.html">Civil War & Reconstruction</a>
+  <a href="industrial.html">Industrialization & Gilded Age</a>
+  <a href="worldwars.html">World Wars & Great Depression</a>
+  <a href="coldwar.html">Cold War Era</a>
+  <a href="modern.html">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>Before 1776</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Native_American_Montage.jpg" alt="Before 1776">
+    <p>Long before the birth of the United States, the American continent was inhabited by hundreds of Indigenous nations. These societies—ranging from the mound-building cultures of the Mississippi Valley to the complex city-states of the Southwest—maintained intricate trade networks, governance systems, and spiritual traditions.</p>
+    <p>Indigenous economies varied broadly: some communities were agricultural, others were mobile hunters and fishers. Seasonal cycles structured life, and ecological knowledge was passed through generations. Art, music, and oral histories preserved community identities and worldviews.</p>
+    <p>European contact in the late 15th and 16th centuries altered these dynamics. Spain, Portugal, France, England, and the Netherlands each pursued colonial goals—some seeking precious metals, others aiming to convert, trade, or settle. These interventions introduced new goods and technologies but also disease and displacement.</p>
+    <p>Spanish missions reshaped life in the Southwest and Florida, while French traders built alliances across the Great Lakes and Mississippi. English colonies established along the Atlantic seaboard developed distinct social and political institutions that would later seed revolutionary ideas.</p>
+    <p>Early colonial settlements like Jamestown (1607) and Plymouth (1620) faced harsh environments and high mortality rates. Survival often required adapting to local conditions, learning Indigenous agricultural techniques, and forming strategic alliances.</p>
+    <p>As colonies grew, economic systems became more regionally diverse. The Southern colonies developed plantation systems dependent on enslaved African labor, while the North developed smaller farms, crafts, and trade networks. The Middle colonies combined agriculture and commerce and were often culturally diverse.</p>
+    <p>Political life in the colonies fostered local institutions—town meetings, colonial assemblies—that gave colonists experience in self-rule. Enlightenment thought began to circulate, emphasizing reason, rights, and the social contract, ideas that would later underpin revolutionary arguments.</p>
+    <p>Religious life was varied: Puritanism shaped New England’s communal values, Anglicanism influenced the South, and religious tolerance in some Middle colonies allowed for pluralism. The Great Awakening, a powerful religious revival, stirred new spiritual energies and emphasized individual moral agency.</p>
+    <p>Tensions between colonial autonomy and imperial control grew after costly imperial wars. Britain’s attempts to extract revenue and regulate commerce—through taxes and trade laws—provoked growing resentment and political mobilization in the colonies.</p>
+    <p>By the mid-18th century, colonists had developed a distinct identity blending European traditions, local innovation, and Indigenous influences. This period set the stage for political change and, eventually, a dramatic rethinking of authority and rights.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://en.wikipedia.org/wiki/Colonial_history_of_the_United_States" target="_blank">Colonial history of the United States - Britannica</a><br>
+      <a href="https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/colonial-settlement-1600-1763/" target="_blank">Library of Congress: Colonial Settlement</a><br>
+      <a href="https://americanindian.si.edu/" target="_blank">National Museum of the American Indian</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+civilwar.html:
+-------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Civil War & Reconstruction (1861–1877) | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html">Before 1776</a>
+  <a href="revolution.html">Revolutionary Era</a>
+  <a href="expansion.html">Expansion & Reform</a>
+  <a href="civilwar.html" class="active">Civil War & Reconstruction</a>
+  <a href="industrial.html">Industrialization & Gilded Age</a>
+  <a href="worldwars.html">World Wars & Great Depression</a>
+  <a href="coldwar.html">Cold War Era</a>
+  <a href="modern.html">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>Civil War & Reconstruction (1861–1877)</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/1865_Colorized_Burning_of_Columbia.jpg" alt="Civil War & Reconstruction (1861–1877)">
+    <p>The Civil War erupted from a constellation of political, economic, and moral disputes, chief among them the institution of slavery and the balance of power between states and the federal government. Secession by Southern states in 1861 precipitated a national crisis.</p>
+    <p>Military campaigns across diverse theaters—Eastern, Western, Trans-Mississippi—demonstrated the war’s scale. Leadership, logistics, and industrial capacity heavily influenced outcomes as generals and governments mobilized resources.</p>
+    <p>The war’s social impact was profound: communities endured loss on an unprecedented scale, and the lives of soldiers and civilians were transformed by conscription, shortages, and the horrors of combat.</p>
+    <p>Lincoln’s leadership, including the Emancipation Proclamation, reframed the conflict’s moral purpose. The proclamation declared freedom for enslaved people in rebelling states and symbolized a commitment to ending slavery.</p>
+    <p>The passage of the 13th, 14th, and 15th Amendments during Reconstruction aimed to dismantle slavery’s legal framework and extend citizenship and voting rights. For a time, African Americans held public office and experienced newfound civic participation.</p>
+    <p>Reconstruction policy faced violent resistance. White supremacist organizations, intimidation, and economic strategies undermined Black political power, while federal withdrawal in 1877 allowed segregationist regimes to restore racial hierarchies.</p>
+    <p>The war’s aftermath provoked debates about national reconciliation, justice, and memory. Questions about land redistribution, reparations, and economic opportunity influenced political discourse for decades.</p>
+    <p>Personal narratives—diaries, letters, speeches—reveal the complex human dimensions of the era: courage, grief, hope, and betrayal. These voices complicate simple narratives of victory or defeat.</p>
+    <p>The Civil War and Reconstruction period left enduring legacies in law, political institutions, and social life, shaping the contours of rights and citizenship in American history.</p>
+    <p>Understanding these events requires grappling with both legal reforms and the social realities that limited their immediate impact, laying the groundwork for future civil rights struggles.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://www.archives.gov/research/military/civil-war" target="_blank">Civil War - National Archives</a><br>
+      <a href="https://www.britannica.com/event/Reconstruction-United-States-history" target="_blank">Reconstruction - Britannica</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+coldwar.html:
+------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Cold War Era (1945–1991) | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html">Before 1776</a>
+  <a href="revolution.html">Revolutionary Era</a>
+  <a href="expansion.html">Expansion & Reform</a>
+  <a href="civilwar.html">Civil War & Reconstruction</a>
+  <a href="industrial.html">Industrialization & Gilded Age</a>
+  <a href="worldwars.html">World Wars & Great Depression</a>
+  <a href="coldwar.html" class="active">Cold War Era</a>
+  <a href="modern.html">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>Cold War Era (1945–1991)</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Berlin_Wall-6.jpg" alt="Cold War Era (1945–1991)">
+    <p>The Cold War era was defined by ideological competition between the United States and the Soviet Union, shaping foreign policy and domestic priorities for decades after World War II.</p>
+    <p>Nuclear weapons and the prospect of mutual annihilation framed policy debates, leading to arms races, deterrence strategies, and diplomacy aimed at preventing direct conflict between superpowers.</p>
+    <p>Proxy wars in Korea, Vietnam, and other regions reflected how global rivalries played out in localized theaters, with profound human costs and contested political outcomes.</p>
+    <p>The civil rights movement gained momentum during this period, forcing national introspection about American democracy as decolonization and Cold War critiques highlighted contradictions between rhetoric and reality.</p>
+    <p>Scientific and technological competition—culminating in the space race—propelled investments in education, research, and applied science, producing breakthroughs with broad civilian applications.</p>
+    <p>Cultural expressions, from music to literature, mirrored the tensions and hopes of the era, while social movements challenged entrenched hierarchies and expanded public debate about rights and justice.</p>
+    <p>Détente and arms-control agreements provided temporary easing of tensions, but the underlying rivalry continued until economic and political crises contributed to the Soviet Union’s collapse.</p>
+    <p>The end of the Cold War in 1991 inaugurated a new global order, but it also left unresolved challenges about regional conflicts, nuclear proliferation, and the role of institutions built during the bipolar era.</p>
+    <p>Narratively, the Cold War is a story of sustained competition that intertwined technology, ideology, culture, and social change, shaping the modern world in lasting ways.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://www.britannica.com/event/Cold-War" target="_blank">Cold War - Britannica</a><br>
+      <a href="https://history.state.gov/milestones/1945-1952/foreword" target="_blank">U.S. Department of State: Milestones 1945-1952</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+expansion.html:
+--------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Expansion & Reform (1740–1860) | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html">Before 1776</a>
+  <a href="revolution.html">Revolutionary Era</a>
+  <a href="expansion.html" class="active">Expansion & Reform</a>
+  <a href="civilwar.html">Civil War & Reconstruction</a>
+  <a href="industrial.html">Industrialization & Gilded Age</a>
+  <a href="worldwars.html">World Wars & Great Depression</a>
+  <a href="coldwar.html">Cold War Era</a>
+  <a href="modern.html">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>Expansion & Reform (1740–1860)</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Lewis_and_Clark_by_A._F._Kuhn.jpg" alt="Expansion & Reform (1740–1860)">
+    <p>The 19th century was defined by continental expansion and social upheaval. The Louisiana Purchase (1803) and later territorial acquisitions reshaped the nation’s geography and ambitions, prompting questions about governance and the extension of rights.</p>
+    <p>Explorers, pioneers, and entrepreneurs moved west, often propelled by the promise of land and prosperity. The concept of Manifest Destiny—an expansive belief in the nation’s mission—drove settlers into valleys, prairies, and deserts.</p>
+    <p>Expansion brought conflict over land and sovereignty. Treaties with Indigenous nations were frequently violated or renegotiated under pressure, and policies of removal forced many communities from ancestral homelands.</p>
+    <p>Economic development accelerated through canals, railroads, and market agriculture. These infrastructure projects integrated regional economies and encouraged urban growth, while also producing ecological and social changes.</p>
+    <p>The Second Great Awakening sparked reform movements. Abolitionists worked tirelessly to end slavery; temperance advocates sought to limit alcohol’s social harms; and education reformers like Horace Mann pushed for public schooling to expand civic competence.</p>
+    <p>Women began organizing for rights and recognition, culminating in early suffrage efforts and conventions that questioned traditional gender roles and advocated for legal reforms.</p>
+    <p>Political conflicts over whether new territories would permit slavery intensified sectional tensions. Legislative compromises attempted to balance interests but often deferred deeply rooted moral dilemmas.</p>
+    <p>Immigration swelled during this era, bringing labor and cultural vitality, even as nativist reactions emerged. Cities became melting pots, but also centers of poverty and labor unrest.</p>
+    <p>Narratively, expansion and reform tell a story of ambition and contradiction: promising opportunity for some while imposing dispossession and exclusion on others.</p>
+    <p>The era reshaped American institutions, landscapes, and political debates, creating challenges and opportunities that reverberated into the Civil War era.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://www.britannica.com/event/Louisiana-Purchase" target="_blank">Louisiana Purchase - Britannica</a><br>
+      <a href="https://www.archives.gov/education/lessons/lewis-clark" target="_blank">Lewis and Clark Expedition - National Archives</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+index.html:
+----------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Index | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">U.S. History</div>
+    <nav>
+      <a href="before1776.html" class="">Before 1776</a>
+<a href="revolution.html" class="">Revolutionary Era</a>
+<a href="expansion.html" class="">Expansion & Reform</a>
+<a href="civilwar.html" class="">Civil War & Reconstruction</a>
+<a href="industrial.html" class="">Industrialization & Gilded Age</a>
+<a href="worldwars.html" class="">World Wars & Great Depression</a>
+<a href="coldwar.html" class="">Cold War Era</a>
+<a href="modern.html" class="">Modern America</a>
+    </nav>
+  </header>
+  
+   <main>
+    <h1>Welcome to the History of the United States</h1>
+    <img src="https://source.unsplash.com/1200x600/?usa,flag,history" alt="Welcome to the History of the United States">
+    <p>Explore eight key eras that shaped the United States. Use the navigation above to open each chapter and learn more about events, people, and ideas that influenced the nation&#x27;s development.</p>
+    <p></p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://www.loc.gov/" target="_blank">Overview — Library of Congress</a>
+    </div>
+  </main>
+  
+    <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+industrial.html:
+---------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Industrialization & Gilded Age (1877–1914) | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html">Before 1776</a>
+  <a href="revolution.html">Revolutionary Era</a>
+  <a href="expansion.html">Expansion & Reform</a>
+  <a href="civilwar.html">Civil War & Reconstruction</a>
+  <a href="industrial.html" class="active">Industrialization & Gilded Age</a>
+  <a href="worldwars.html">World Wars & Great Depression</a>
+  <a href="coldwar.html">Cold War Era</a>
+  <a href="modern.html">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>Industrialization & Gilded Age (1877–1914)</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Flatiron_Building_%281908%29.jpg" alt="Industrialization & Gilded Age (1877–1914)">
+    <p>The late 19th century saw the transformation of the U.S. into an industrial powerhouse. Railroads, telegraphs, and mass-production techniques enabled goods and people to move at unprecedented speed across the nation.</p>
+    <p>Rail networks, steel mills, and oil refineries concentrated wealth and power in the hands of industrial magnates. This rapid accumulation provoked debates about monopoly, fairness, and the responsibilities of wealth.</p>
+    <p>Immigrants arriving from Europe and Asia provided labor for factories and cities, creating cultural diversity and fueling urban growth. At the same time, living and working conditions often remained difficult for many laborers.</p>
+    <p>Labor unions and strikes emerged as workers organized for better wages, hours, and conditions. Violent clashes at times highlighted the painful process of industrialization and the struggle for workers’ rights.</p>
+    <p>Progressive reformers responded by championing antitrust law, food and drug regulation, electoral reforms, and measures to reduce corruption. Journalism exposed abuses and catalyzed public demand for change.</p>
+    <p>Technological innovations—electricity, the telephone, and the internal combustion engine—reshaped domestic life and economic organization, creating new industries and consumer habits.</p>
+    <p>Urbanization transformed social relations: schools, parks, and cultural institutions emerged alongside overcrowded tenements and public health crises, prompting municipal and state-level reforms.</p>
+    <p>Narratively, the Gilded Age is a story of creativity and conflict: brilliance in invention matched by painful inequalities, and a public appetite for reform that would define the Progressive Era.</p>
+    <p>The era’s institutions—corporations, regulatory agencies, and labor organizations—set patterns that continue to inform contemporary economic debates.</p>
+    <p>Understanding the Gilded Age means attending to both the engine of economic growth and the social movements that sought to harness it for broader public good.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://www.history.com/topics/19th-century/gilded-age" target="_blank">Gilded Age - History.com</a><br>
+      <a href="https://www.britannica.com/event/Industrial-Revolution" target="_blank">Industrial Revolution in America - Britannica</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+modern.html:
+-----------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Modern America (1991–Present) | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html">Before 1776</a>
+  <a href="revolution.html">Revolutionary Era</a>
+  <a href="expansion.html">Expansion & Reform</a>
+  <a href="civilwar.html">Civil War & Reconstruction</a>
+  <a href="industrial.html">Industrialization & Gilded Age</a>
+  <a href="worldwars.html">World Wars & Great Depression</a>
+  <a href="coldwar.html">Cold War Era</a>
+  <a href="modern.html" class="active">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>Modern America (1991–Present)</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Times_Square_2012.jpg" alt="Modern America (1991–Present)">
+    <p>The post-Cold War period ushered in rapid technological, social, and economic changes. The rise of the internet, mobile communication, and global networks transformed how people work, learn, and connect.</p>
+    <p>Economic globalization expanded markets and production chains, offering growth opportunities but also raising concerns about inequality, job displacement, and regulatory challenges.</p>
+    <p>The terrorist attacks on September 11, 2001 had profound effects on domestic policy and international engagement, prompting extended military operations and debates about civil liberties and security.</p>
+    <p>The 2008 financial crisis revealed systemic vulnerabilities in modern finance, leading to policy responses and renewed public attention to financial regulation and social safety nets.</p>
+    <p>Social movements in recent decades—addressing racism, gender equality, and climate change—have reshaped public discourse and influenced law, corporate behavior, and civic action.</p>
+    <p>Technological advances in medicine, renewable energy, and artificial intelligence offer potential benefits while raising ethical and policy questions about access, governance, and unintended consequences.</p>
+    <p>Climate change has emerged as a defining global issue, prompting efforts at mitigation and adaptation that intersect with economic, political, and social priorities.</p>
+    <p>The narrative of Modern America is one of innovation and contestation: rapid progress accompanied by urgent debates about equity, governance, and community.</p>
+    <p>Looking forward, policymakers and citizens wrestle with balancing technological opportunity, social cohesion, and environmental stewardship in a deeply interconnected world.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://en.wikipedia.org/wiki/History_of_the_United_States_(1991%E2%80%932016)" target="_blank">History of the United States (1991–2016) - Wikipedia</a><br>
+      <a href="https://fiveable.me/united-states-history-since-1865/unit-12" target="_blank">Globalization & Challenges: 1991–Present - Fiveable</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+revolution.html:
+---------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Revolutionary Era (1776–1789) | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html">Before 1776</a>
+  <a href="revolution.html" class="active">Revolutionary Era</a>
+  <a href="expansion.html">Expansion & Reform</a>
+  <a href="civilwar.html">Civil War & Reconstruction</a>
+  <a href="industrial.html">Industrialization & Gilded Age</a>
+  <a href="worldwars.html">World Wars & Great Depression</a>
+  <a href="coldwar.html">Cold War Era</a>
+  <a href="modern.html">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>Revolutionary Era (1776–1789)</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Declaration_independence.jpg" alt="Revolutionary Era (1776–1789)">
+    <p>By the mid-18th century, colonial objections to British policy had grown more organized and forceful. Debates over taxation, trade restrictions, and self-governance accelerated after the French and Indian War, which left Britain seeking revenue from the colonies.</p>
+    <p>Political discourse spread through pamphlets and newspapers; Thomas Paine’s 'Common Sense' provided an accessible argument for independence, capturing widespread sentiment and pushing undecided colonists toward the idea of a separate nation.</p>
+    <p>The Declaration of Independence in 1776 articulated a bold claim: that governments derive their just powers from the consent of the governed. This rhetorical act reframed the conflict as a struggle for universal principles, not merely colonial grievances.</p>
+    <p>Military campaigns of the Revolutionary War tested the resolve of the new nation. From the initial skirmishes in New England to pivotal battles in the middle colonies, Americans balanced conventional battles with guerrilla tactics and diplomatic efforts.</p>
+    <p>French alliance following the American victory at Saratoga provided crucial military and naval support; foreign aid proved decisive in offsetting British advantages. The global dimensions of the war showed how colonial independence fit into broader European rivalries.</p>
+    <p>Life during the war was difficult—supply shortages, disease, and economic turmoil affected soldiers and civilians. Women managed households and businesses, and some served as nurses, spies, or logistical supporters, shaping the home-front experience.</p>
+    <p>After victory in 1783, leaders faced the challenge of designing a durable political system. The weak Confederation gave way to the Constitutional Convention in 1787, where delegates crafted a Constitution balancing federal and state powers.</p>
+    <p>The ratification debates required compromises—on representation, slavery, and individual rights. The addition of the Bill of Rights in 1791 helped secure civil liberties and soothe fears of centralized authority.</p>
+    <p>The Revolutionary Era left legacies that were both inspiring and contradictory: it articulated ideals of liberty while social hierarchies and exclusions remained. The new republic set a course marked by both promise and persistent struggles.</p>
+    <p>Understanding this era requires seeing how ideas, military struggle, diplomacy, and everyday resilience combined to create a political experiment that would influence the modern world.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://www.britannica.com/event/American-Revolution" target="_blank">American Revolution - Britannica</a><br>
+      <a href="https://www.archives.gov/founding-docs/declaration" target="_blank">Declaration of Independence - National Archives</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
+style.css:
+---------
+
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Georgia, 'Times New Roman', serif;background:#ffffff;color:#000;line-height:1.7}
+header{display:flex;justify-content:center;align-items:center;background:#001F3F;padding:18px 24px;box-shadow:0 2px 5px rgba(0,0,0,0.12);position:sticky;top:0;z-index:1000}
+nav{max-width:1200px;width:100%;display:flex;justify-content:center;gap:18px;padding:8px 12px}
+nav a{color:#fff;text-decoration:none;font-weight:600;padding:6px 10px;border-radius:4px}
+nav a:hover{color:#C70039;background:rgba(255,255,255,0.04)}
+nav a.active{color:#6A0DAD;background:rgba(255,255,255,0.06);border-bottom:3px solid #6A0DAD}
+main{padding:60px;max-width:1000px;margin:auto}
+h1{color:#001F3F;font-size:2.2em;margin-bottom:18px;border-bottom:3px solid #C70039;display:inline-block;padding-bottom:6px}
+p{margin:16px 0;text-align:justify}
+img{margin-top:24px;max-width:100%;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,0.28)}
+.references{margin-top:28px;padding:14px;background:#f4f4f4;border-left:5px solid #6A0DAD}
+.references a{color:#001F3F;text-decoration:none;font-weight:700}
+.references a:hover{color:#C70039;text-decoration:underline}
+footer{padding:24px;text-align:center;color:#333;font-size:0.95em}
+
+worldwars.html:
+--------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>World Wars & Great Depression (1914–1945) | U.S. History</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav><a href="before1776.html">Before 1776</a>
+  <a href="revolution.html">Revolutionary Era</a>
+  <a href="expansion.html">Expansion & Reform</a>
+  <a href="civilwar.html">Civil War & Reconstruction</a>
+  <a href="industrial.html">Industrialization & Gilded Age</a>
+  <a href="worldwars.html" class="active">World Wars & Great Depression</a>
+  <a href="coldwar.html">Cold War Era</a>
+  <a href="modern.html">Modern America</a></nav>
+  </header>
+  <main>
+    <h1>World Wars & Great Depression (1914–1945)</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Great_Depression_Breadline.jpg" alt="World Wars & Great Depression (1914–1945)">
+    <p>World War I marked the United States’ emergence as a player in global geopolitics. Though initially neutral, the nation’s eventual entry in 1917 helped tip the balance in favor of the Allies and signaled a new international role.</p>
+    <p>The 1920s’ cultural shifts—jazz music, the Harlem Renaissance, and new mass entertainment—coexisted with speculative economic bubbles that culminated in the 1929 crash.</p>
+    <p>The Great Depression devastated global economies. Unemployment soared, banks failed, and ordinary families faced dire hardship. The crisis prompted dramatic policy experimentation in economic management.</p>
+    <p>Franklin D. Roosevelt’s New Deal implemented broad programs—work relief, financial reforms, and social insurance—that aimed to stabilize the economy and provide a safety net.</p>
+    <p>As fascism and militarism raised tensions abroad, the United States mobilized for World War II after the attack on Pearl Harbor in 1941. The war effort reshaped industries, accelerated technological innovation, and altered social roles.</p>
+    <p>Women entered the workforce in large numbers and served crucial roles in industry and military support, challenging traditional gender norms and sparking debates about postwar social arrangements.</p>
+    <p>Victory in 1945 confirmed the United States as a central architect of a postwar international system, helping to found institutions aimed at collective security and reconstruction.</p>
+    <p>The combined experience of economic collapse and global war transformed public expectations about government responsibility, foreign policy, and the relationship between citizens and the state.</p>
+    <p>Narratively, the era illustrates resilience under crisis—how societies rebuild and reorganize in response to both economic catastrophe and existential threats.</p>
+    <p>The legacies of these decades shaped mid-century prosperity, institutions, and the geopolitical order that lasted for decades.</p>
+    <div class="references">
+      <strong>References:</strong><br>
+      <a href="https://www.britannica.com/event/Great-Depression" target="_blank">Great Depression - Britannica</a><br>
+      <a href="https://www.britannica.com/event/World-War-II" target="_blank">World War II - Britannica</a><br>
+      <a href="https://www.archives.gov/research/alic/reference/new-deal.html" target="_blank">New Deal - National Archives</a>
+    </div>
+  </main>
+  <footer>
+    <p>History of the United States.</p>
+    <p>Modesto Lascano.</p>
+  </footer>
+</body>
+</html>
+
